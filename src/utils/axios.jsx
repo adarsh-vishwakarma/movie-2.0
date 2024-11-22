@@ -1,5 +1,5 @@
 import axios from "axios";
-import Authorization from "../config";
+// import Authorization from "../config";
 
 const instace = axios.create({
     baseURL : "https://api.themoviedb.org/3/",
